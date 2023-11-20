@@ -11,7 +11,7 @@ Welcome to the ASP.NET Album and Playlist Management Web App repository! This pr
 
 ## 📚 Assignment Overview 📚
 
-In this assignment, you will develop a web app that displays lists of Album, MediaType, Track, and Playlist objects, and empowers users to add new Track objects while managing many-to-many associations within Playlist objects. The project adheres to recommended system design guidance and emphasizes technical excellence.
+In this assignment, I have developed a web app that displays lists of Album, MediaType, Track, and Playlist objects, and empowers users to add new Track objects while managing many-to-many associations within Playlist objects. The project adheres to recommended system design guidance and emphasizes technical excellence.
 
 ## 👨‍💻 Technology Stack 👩‍💻
 
@@ -23,11 +23,11 @@ In this assignment, you will develop a web app that displays lists of Album, Med
 
 ## 📊 Technical Details 📊
 
-- **Album, MediaType, and Artist View Models:** Develop view models for these entities, adding [Key] data annotations for efficient data handling.
-- **Track Entity:** Create view models for Track, including TrackBaseViewModel and TrackWithDetailViewModel, to support different use cases.
-- **Playlist Management:** Enable basic editing of Playlist objects, including editing track associations using PlaylistEditTracksFormViewModel and PlaylistEditTracksViewModel.
-- **LINQ Queries:** Use LINQ query expressions to sort results by specific attributes for various entities.
-- **AutoMapper:** Create mappers to facilitate data mapping between view models and design models.
+- **Album, MediaType, and Artist View Models:** Developed view models for these entities, and added [Key] data annotations for efficient data handling.
+- **Track Entity:** Created view models for Track, including TrackBaseViewModel and TrackWithDetailViewModel, to support different use cases.
+- **Playlist Management:** Enabled basic editing of Playlist objects, including editing track associations using PlaylistEditTracksFormViewModel and PlaylistEditTracksViewModel.
+- **LINQ Queries:** Used LINQ query expressions to sort results by specific attributes for various entities.
+- **AutoMapper:** Created mappers to facilitate data mapping between view models and design models.
 
 ## 📜 Academic Integrity 📜
 
